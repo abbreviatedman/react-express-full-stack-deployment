@@ -20,7 +20,7 @@ What you will need to get started is:
 
 1. Upload the all of contents of the `server` folder (EXCEPT `node_modules`) to a GitHub repository. For this example, it will be called "MCU-back-end".
 
-2. Go to `Render.com` and sign in. Click the blue `New +` button next to your username.
+2. Go to `Render.com` and sign in. Click the `New +` button next to your username.
 
 3. Select **Web Service**.
 
